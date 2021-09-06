@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&count_private=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 
 
 ### Languages and frameworks: 
 

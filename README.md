@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=renise&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 
 
 ### Languages and frameworks: 
 
@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Linux-%2314354C?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=AntonieV&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![](https://github-readme-stats.vercel.app/api?username=rdenise&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->

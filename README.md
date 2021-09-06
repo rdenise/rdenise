@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=green)
 ![](https://img.shields.io/badge/r-%2314354C.svg?style=for-the-badge&logo=r&logoColor=3885F1)
 ![](https://img.shields.io/badge/Shell_Script-%2314354C?style=for-the-badge&logo=gnu-bash&logoColor=green)
-![](https://img.shields.io/badge/CSS3-%2314354C?style=for-the-badge&logo=css3&logoColor=3885F1)
-![](https://img.shields.io/badge/HTML5-%2314354C?style=for-the-badge&logo=html5&logoColor=FD7D21) 
 ![](https://img.shields.io/badge/Linux-%2314354C?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
 

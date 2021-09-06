@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=rdenise.visitor-badge)
-
-
 <!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&hide=Tex,PostScript&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&locale=en&layout=compact&hide=Tex,PostScript&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 

@@ -13,17 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&count_private=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=chartreuse-dark" alt="rdenise" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&count_private=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=noctis_minimus" alt="rdenise" /></p> 
 
 ### Languages and frameworks: 
 
 <!-- <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width=30px></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" width=30px></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width=30px></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=30px></span>&nbsp;
-<span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=30px></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width=30px></span>&nbsp;
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" width=30px></span>&nbsp; -->
 <!-- <span><img src="" width=30px></span>&nbsp; -->

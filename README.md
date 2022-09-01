@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&count_private=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=noctis_minimus" alt="rdenise" /></p> 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdenise&show_icons=true&count_private=true&locale=en&layout=compact&border_color=2a2f3a&custom_title=Most used languages:&langs_count=9&theme=noctis_minimus" alt="rdenise" /></p> -->
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdenise&theme=noctis_minimus&layout=compact&custom_title=Most used languages:&border_color=2a2f3a&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and frameworks: 
 

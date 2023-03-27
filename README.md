@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Linux-%2314354C?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/latex-%2314354C.svg?style=for-the-badge&logo=latex&logoColor=008181)
 
-<!-- [![](https://github-readme-stats.vercel.app/api?username=rdenise&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![](https://github-readme-stats-sigma-five.vercel.app/api?username=rdenise&show_icons=true&count_private=true&hide_rank=false&include_all_commits=false&custom_title=Statistics:&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) -->
